@@ -1,0 +1,9 @@
+Nela!
+
+You have ${PRODUCT} in fridge over ${TIME} days.
+Use it up quickly!
+
+Have a great day,
+Yours truly,
+
+Fridge-notificator ;D
